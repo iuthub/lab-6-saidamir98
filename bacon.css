@@ -1,0 +1,18 @@
+.input-form{
+	float: right;
+	font-size: 1.4em;
+	margin: auto;
+}
+.input-form > form > button{
+	background-color: green;
+	border: 1px solid black;
+	color: white;
+}
+
+h1, p{
+	text-align: center;
+	clear: both;
+}
+img{
+	margin-left: 33vw;
+}
